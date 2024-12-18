@@ -2,9 +2,13 @@
 This repository contains a Tableau workbook for analyzing sales data. It demonstrates basic Tableau functionalities and provides insights into sales performance.
 
 # Repository Contents
-* Tableau Workbook: The main .twb file with various visualizations and dashboards.
+* Tableau Workbook: The main .twbx file with various visualizations and dashboards.
 * Sales Data: Sample sales data used for analysis (in xlsx format).
 
+# Sales Analysis Story
+```bash
+https://public.tableau.com/views/SalesAnalysis_17345404192800/SalesAnalysisStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+```
 
 # Getting Started
 * **1-Download the Repository:**
